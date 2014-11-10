@@ -1,0 +1,19 @@
+{
+  "name": "GoogleAnalytics",
+  "label": "Google Analytics",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "0.0.1",
+  "author": "TODO: your name here",
+  "description": "Google Analytics",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false,
+    "hasLocale": true,
+    "hasStyle": true,
+    "hasConfig": true,
+    "hasUIFile": true
+  }
+}
